@@ -1,0 +1,5 @@
+This file is a placeholder.
+Within here you can create more subfolders as you wish!
+
+DO NOT MOVE OR REMOVE THE FOLDERS HERE!
+It will cause issues when exporting.
